@@ -3,8 +3,8 @@
 <h4 align="center">A Powerful, Smart And Simple Userbot In Pyrogram.</h4>
 
 ## Support 🚑
-<a href="https://t.me/Sareefo_ki_duniy"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/about_insaneop"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/About_insaneop"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/sareefo_ki_duniya"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 # String Session - Pyrogram 🖱
