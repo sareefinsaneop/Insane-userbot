@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/about_insaneop"><img src="https://telegra.ph/file/22535f8051a58af113586.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/about_insaneop"><img src="https://te.legra.ph/file/6f1b8fd09a28f49568841.jpg" width="5000"></a></p> 
 <h1 align="center"><b>𝐈ɴsᴀɴᴇ-𝐔sᴇʀʙᴏᴛ 🔥 🇮🇳 </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Pyrogram.</h4>
 
